@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CricketStrategies.iml" filepath="$PROJECT_DIR$/CricketStrategies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyUsingEnum/StrategyUsingEnum.iml" filepath="$PROJECT_DIR$/StrategyUsingEnum/StrategyUsingEnum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyUsingInterface/StrategyUsingInterface.iml" filepath="$PROJECT_DIR$/StrategyUsingInterface/StrategyUsingInterface.iml" />
+    </modules>
+  </component>
+</project>
